@@ -1,0 +1,9 @@
+body {
+  background-color: powderblue;
+}
+
+p {
+  border-style: solid;
+  border-width: medium;
+  border-color: black;
+}
